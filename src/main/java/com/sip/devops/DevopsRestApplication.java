@@ -28,6 +28,7 @@ public class DevopsRestApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
+		System.out.println("Hello....................");
 		// TODO Auto-generated method stub
 //		Devops devops1=new Devops();
 //		devops1.setFirstname("Bennani");

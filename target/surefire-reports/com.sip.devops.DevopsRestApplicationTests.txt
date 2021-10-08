@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sip.devops.DevopsRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.456 s - in com.sip.devops.DevopsRestApplicationTests

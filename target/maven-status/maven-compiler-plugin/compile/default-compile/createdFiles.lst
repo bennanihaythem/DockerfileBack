@@ -1,0 +1,6 @@
+com\sip\devops\entities\Devops.class
+com\sip\devops\services\DevopsServices.class
+com\sip\devops\servicesImp\DevopsImp.class
+com\sip\devops\DevopsRestApplication.class
+com\sip\devops\controllers\DevopsController.class
+com\sip\devops\dao\DevopsRepository.class

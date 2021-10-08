@@ -4,7 +4,11 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Table;
+
+
 @Entity
+//@Table(name = "devops")
 public class Devops {
 	
 	@Id @GeneratedValue(strategy = GenerationType.AUTO)
